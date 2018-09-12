@@ -1,7 +1,7 @@
-Awesome Bitcoin Minimalist Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+Awesome Bitcoin Maximalist Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
-[Awesome](https://github.com/sindresorhus/awesome) list of resources for [Bitcoin Minimalists](https://www.investopedia.com/terms/b/bitcoin-maximalism.asp).
+[Awesome](https://github.com/sindresorhus/awesome) list of resources for [Bitcoin Maximalists](https://www.investopedia.com/terms/b/bitcoin-maximalism.asp).
 
 - [Books](#books)
 - [Podcasts](#podcasts)
