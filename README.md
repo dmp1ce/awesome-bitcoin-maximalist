@@ -5,6 +5,7 @@ Awesome Bitcoin Minimalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 
 - [Books](#books)
 - [Podcasts](#podcasts)
+- [Other resources](#other-resources)
 - [Counter Maximalist Resources](#counter-maximalist-resources)
 - [License](#license)
 
@@ -17,6 +18,12 @@ Awesome Bitcoin Minimalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 - [Noded Podcast](https://noded.org/) - Bitcoin current events, technical news, and commentary.
 - [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/website) - a podcast hosted by Marty Bent about Bitcoin
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/) - Commentary and interviews by a Bitcoin and Cryptocurrency investor, miner, blogger and podcaster
+
+# Other resources
+
+- [Bitcoin website](https://bitcoin.org/)
+- [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) - Subreddit for Bitcoin
+- [@btc](https://twitter.com/btc) - Bitcoin Twitter
 
 # Counter Maximalist Resources
 
