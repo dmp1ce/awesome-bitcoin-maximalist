@@ -17,6 +17,7 @@ Awesome Bitcoin Maximalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 
 - [Noded Podcast](https://noded.org/) - Bitcoin current events, technical news, and commentary.
 - [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/website) - a podcast hosted by Marty Bent about Bitcoin
+- [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/) - Commentary and interviews by a Bitcoin and Cryptocurrency investor, miner, blogger and podcaster
 
 # Other resources
