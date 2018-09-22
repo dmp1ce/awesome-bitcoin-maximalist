@@ -17,6 +17,7 @@ Awesome Bitcoin Maximalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 
 - [Bottomshelf Bitcoin](https://bottomshelfbitcoin.com/) - you don’t have to be a cryptographer or computer scientist to understand Bitcoin
 - [Noded Podcast](https://noded.org/) - Bitcoin current events, technical news, and commentary.
+- [Stephan Livera Podcast](https://stephanlivera.com/) - about Bitcoin from a Crypto-Austrian perspective
 - [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/website) - a podcast hosted by Marty Bent about Bitcoin
 - [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/) - Commentary and interviews by a Bitcoin and Cryptocurrency investor, miner, blogger and podcaster
