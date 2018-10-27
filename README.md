@@ -20,6 +20,7 @@ Awesome Bitcoin Maximalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 - [Stephan Livera Podcast](https://stephanlivera.com/) - about Bitcoin from a Crypto-Austrian perspective
 - [Tales from the Crypt](https://talesfromthecrypt.libsyn.com/website) - a podcast hosted by Marty Bent about Bitcoin
 - [The Bitcoin Knowledge Podcast](https://www.bitcoin.kn/)
+- [The Cryptoconomy Podcast](https://cryptoconomy.podbean.com/) - The Technology, The Philosophy, and The Cypherpunks.
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/) - Commentary and interviews by a Bitcoin and Cryptocurrency investor, miner, blogger and podcaster
 
 # Other resources
@@ -31,6 +32,7 @@ Awesome Bitcoin Maximalist Resources [![Awesome](https://cdn.rawgit.com/sindreso
 # Counter Maximalist Resources
 
 - [Bitcoin.com - Official Channel](https://www.youtube.com/channel/UCetxkZolEBHX47BqtZktbkg) - the very best in bitcoin, cryptocurrency news and media
+- [Ryan X. Charles](https://www.youtube.com/user/ryanxcharles/) - Popular Bitcoin Cash advocate and creator of the [Yours](https://www.yours.org/) platform
 
 # License
 
